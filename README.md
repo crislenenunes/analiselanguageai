@@ -29,7 +29,5 @@ Será que eu sou uma fraude?
 Bom, já, já vamos ver
 Certeza que eu to a beira de enlouquecer"*
 
-![Relatório de Análise - 1](input/imagem1)
-![Relatório de Análise - 2](input/imagem2)
-
-
+![Relatório de Análise - 1](input/imagem1.jpg)
+![Relatório de Análise - 2](input/imagem2.jpg)
